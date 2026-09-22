@@ -1,0 +1,2 @@
+nom="adria"
+print(nom)
